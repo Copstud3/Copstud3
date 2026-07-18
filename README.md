@@ -78,15 +78,6 @@ RESTful backend for an e-commerce platform featuring:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Copstud3&show_icons=true&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Copstud3&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/copstud3
